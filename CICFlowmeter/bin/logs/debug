@@ -1,0 +1,10 @@
+2024-01-07 20:17:01 DEBUG swing.common.SwingUtils    F:\CICFlowmeter\bin\data (Access is denied)
+2024-01-07 20:17:01 DEBUG swing.common.SwingUtils    F:\CICFlowmeter\bin\logs (Access is denied)
+2024-01-07 20:17:30 DEBUG swing.common.SwingUtils    C:\DumpStack.log (Access is denied)
+2024-01-07 20:17:52 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Program Files\Wireshark\test.pcap
+2024-01-07 20:18:30 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\Dinesh M\Desktop\front end\dataset
+2024-01-07 20:18:36 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Program Files\Wireshark\test.pcap
+2024-01-07 20:18:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2024-01-07 20:18:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2024-01-07 20:18:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2024-01-07 20:18:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Program Files\Wireshark\test.pcap
