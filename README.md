@@ -7,5 +7,4 @@ Drive link for the dataset used for traning the model: https://drive.google.com/
 
 # ML model outputs 
 
-https://github.com/Dineshmoorthi27/NETWORK-ANOMALY-DETECTION/blob/main/images/outputs/database.png?raw=true
 
