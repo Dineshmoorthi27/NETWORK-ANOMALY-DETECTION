@@ -42,30 +42,33 @@ streamlit run main.py
 ![register page](https://github.com/Dineshmoorthi27/NETWORK-ANOMALY-DETECTION/assets/105672295/aad9372e-6333-4985-a16b-57508c3f2497)
 <br />
 User interface showing register page.
+<br />
 ![contact page](https://github.com/Dineshmoorthi27/NETWORK-ANOMALY-DETECTION/assets/105672295/6f9c10b0-50d4-4f1b-b77a-e02ec008fdfd)
 <br />
  User interface showing contact page.
+ <br />
 ![modal page](https://github.com/Dineshmoorthi27/NETWORK-ANOMALY-DETECTION/assets/105672295/1def6e51-7be2-47ea-8c49-4e945b08336b)
-
+<br />
  User interface showing modal page.
-
+<br />
 
 # Database setup 
 ![database](https://github.com/Dineshmoorthi27/NETWORK-ANOMALY-DETECTION/assets/105672295/cbe9cde6-a9d8-402b-a703-f9fe9e862ee3)
-
+<br />
 Screenshot of database setup.
 <br />
 # To cature data packect and extract feature from the Internet we use Wireshark and CIC flow Meter
 ![cmd output](https://github.com/Dineshmoorthi27/NETWORK-ANOMALY-DETECTION/assets/105672295/414b929b-05a8-4a50-a2e6-860c194b71ad)
-
+<br />
 Output from command line tool.
 <br />
 ![cicflowmeter](https://github.com/Dineshmoorthi27/NETWORK-ANOMALY-DETECTION/assets/105672295/b7ca8dc8-5366-42da-a204-ba4a5a07704e)
-
+<br />
 Screenshot of CIC Flowmeter.
 ![CICFlowmeter_capture_file ](https://github.com/Dineshmoorthi27/NETWORK-ANOMALY-DETECTION/assets/105672295/6c0c758d-1ff4-470d-a10a-1bff57acc1dd)
-
+<br />
  Capture file from CIC Flowmeter.
+ <br />
 
 
 # Automatic Mail Alert system output.
